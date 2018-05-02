@@ -35,8 +35,15 @@ il y a eut des modification
 
 
 je reste sur la branche develop
+<<<<<<< Updated upstream
 =======
 
 
 modif avant le stash
 >>>>>>> 8d342ef10c257a4e5f927003d795234d66e4c2b0
+=======
+
+
+JE FAIS UN STASH !!!!!!
+
+>>>>>>> Stashed changes
