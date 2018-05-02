@@ -28,9 +28,15 @@ il y a eut des modification
 il y a eut des modification 
 il y a eut des modification 
 il y a eut des modification 
+<<<<<<< HEAD
 >>>>>>> 9748a72f04ff8a30611330e65e7a6da12099ef2f
 
 
 
 
 je reste sur la branche develop
+=======
+
+
+modif avant le stash
+>>>>>>> 8d342ef10c257a4e5f927003d795234d66e4c2b0
