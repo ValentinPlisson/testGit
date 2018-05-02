@@ -1,5 +1,31 @@
 test
+<<<<<<< HEAD
 je suis normalement sur la branche dev
 je continu
 
 nouveau commit sur la branche develop
+=======
+test2
+Je suis sur la branche master
+il y a eut des modification 
+il y a eut des modification 
+il y a eut des modification 
+il y a eut des modification 
+
+il y a eut des modification 
+il y a eut des modification 
+il y a eut des modification 
+il y a eut des modification 
+il y a eut des modification 
+il y a eut des modification 
+
+il y a eut des modification 
+il y a eut des modification 
+il y a eut des modification 
+il y a eut des modification 
+
+il y a eut des modification 
+il y a eut des modification 
+il y a eut des modification 
+il y a eut des modification 
+>>>>>>> 9748a72f04ff8a30611330e65e7a6da12099ef2f
